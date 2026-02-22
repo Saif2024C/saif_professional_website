@@ -41,7 +41,6 @@ Work Experience
     * Modelled rovibrational spectra of diatomic molecules using both analytical approximations and numerical methods
     * Implemented high-accuracy finite-difference and matrix-based solvers in Python for solving Schrödinger-type equations
     * Benchmarked numerical results against literature and theoretical predictions to validate model stability and convergence
-    * Conducted parameter sensitivity analysis and error quantification
     * Manuscript currently under review at International Journal of Quantum Chemistry (Wiley)
 
 Skills
