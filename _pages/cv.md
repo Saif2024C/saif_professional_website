@@ -31,13 +31,13 @@ Work Experience
 * May 2022 – Apr 2025: Research Intern, Department of Physics
   * Hindu College, University of Delhi, Delhi, India
 
-  * Project 1: Ferrite-Based Energy Materials 
+  * **Project 1: Ferrite-Based Energy Materials**
     * Investigated ferrite-based hydroelectric cells for green electrical energy generation
     * Led electrical characterisation experiments and designed ESP32-based microcontroller instrumentation for real-time data acquisition
     * Analysed the effect of K+ cation doping on MgFe2O4 microstructure and electrochemical performance
     * Co-authored peer-reviewed publication in Journal of Alloys and Compounds (2023) ( Contributed to Section 3.4 (Hydroelectric Properties) and experimental data analysis )
 
-  * Project 2: Molecular Spectroscopy & Quantum Chemistry (Computational Physics)
+  * **Project 2: Molecular Spectroscopy & Quantum Chemistry (Computational Physics)**
     * Modelled rovibrational spectra of diatomic molecules using both analytical approximations and numerical methods
     * Implemented high-accuracy finite-difference and matrix-based solvers in Python for solving Schrödinger-type equations
     * Benchmarked numerical results against literature and theoretical predictions to validate model stability and convergence
